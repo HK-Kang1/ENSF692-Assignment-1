@@ -1,3 +1,7 @@
+## 📝 ENSF 692 - Assignment 1 
+* Heemin Kang
+* “You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And you are the guy who'll decide where to go." - Dr.Suess
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
